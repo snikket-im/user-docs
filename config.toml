@@ -1,0 +1,5 @@
+baseURL = 'https://help.snikket.org/'
+languageCode = 'en-us'
+title = 'Snikket Help'
+
+theme = "ace-documentation"
