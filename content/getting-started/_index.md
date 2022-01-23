@@ -16,7 +16,7 @@ instance](https://snikket.org/service/) or if you already know someone who has
 one, ask them for an invitation.
 
 ## Existing accounts
-    
+
 If you already have an account, learn how to [sign in to your account](sign-in/).
 Once you are set up, you can learn more about adding, removing and backing up
 your account data in [Managing Your Accounts](managing-accounts/).
