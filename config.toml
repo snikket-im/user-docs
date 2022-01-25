@@ -5,4 +5,5 @@ title = 'Snikket Help'
 theme = "ace-documentation"
 
 [params]
+site_logo = "/images/snikket-icon.svg"
 custom_css = ["css/snikket_docs.css"]
