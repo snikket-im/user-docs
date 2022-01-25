@@ -1,0 +1,8 @@
+.main > h2 {
+	padding-top: 2rem;
+}
+
+.main > h3, .main > h4, .main > h5, .main > h6 {
+	padding-top: 2rem;
+	margin-top: -1rem;
+}

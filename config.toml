@@ -3,3 +3,6 @@ languageCode = 'en-us'
 title = 'Snikket Help'
 
 theme = "ace-documentation"
+
+[params]
+custom_css = ["css/snikket_docs.css"]
