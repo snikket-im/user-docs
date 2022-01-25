@@ -1,6 +1,13 @@
 {{ define "main" }}
 
-<h1>{{ .Title }}</h1>
+<h1>{{ .Title }}
+{{ if .Params.Subtitle }}
+<br/>
+<small class="text-muted font-weight-light">
+    {{ .Params.Subtitle }}
+</small>
+{{ end }}
+</h1>
 
 {{ .Content }}
 
