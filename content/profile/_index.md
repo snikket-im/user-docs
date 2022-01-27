@@ -8,5 +8,5 @@ address.
 
 Learn more about:
 
-- [Updating your profile information](/profile/updating/)
+- [Updating your profile information](/profile/update/)
 - [Controlling profile visibility](/profile/visibility/)
