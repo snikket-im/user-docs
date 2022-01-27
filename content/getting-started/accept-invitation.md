@@ -39,3 +39,14 @@ invitation page again, but this time tap the 'Open the app' button on that
 page to launch the app and begin the account setup.
 
 As part of the account setup process, you will choose a username and password.
+
+## Step 4: Understanding circles and contacts
+
+Once you've created your account and opened the Snikket app, you'll see that
+you've automatically been added to a group chat.
+
+This is the default group chat of the circle you've been invited to when you
+created your account. Everyone who is already part of this circle is also
+automatically added to your contact list.
+
+You can can now start using Snikket! Enjoy!
